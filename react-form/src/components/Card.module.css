@@ -44,13 +44,13 @@
   .newPost{
     border: none;
     padding: 10px;
-    background-color: rgb(255, 255, 255);
+    background-color: white;
     margin-right: 20px;
   }
 
   .submitButton{
     border: none;
     padding: 10px 20px;
-    background-color: rgb(70, 102, 102);
+    background-color: green;
     color: white;
   }
